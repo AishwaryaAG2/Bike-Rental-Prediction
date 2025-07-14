@@ -1,6 +1,4 @@
-# Bike-Rental-Prediction
-
-PRCP-1018-BikeRental
+# PRCP-1018-BikeRental,Prediction of daily bike rental count based on the environmental and seasonal settings.
 
 Problem Statement
 
